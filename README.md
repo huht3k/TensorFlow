@@ -1,7 +1,7 @@
 # TensorFlow
 
-TensorFlow/tutorial
+## TensorFlow/tutorials
 
-Tutorial for Tensorflow
+  Tutorial for Tensorflow
 
-Modified the python file from http://tensorflow.org to ipynb 
+  Modified the python file from http://tensorflow.org to ipynb 
