@@ -4,4 +4,4 @@
 
   Tutorial for Tensorflow
 
-  Modified the python file from http://tensorflow.org to ipynb 
+  Modified the python files from http://tensorflow.org to ipynb files
