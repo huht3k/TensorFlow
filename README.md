@@ -17,3 +17,6 @@ Deep layers and structures are both important.
 
 ### cifar10_35.ipynb
 Demostrate a base model, the test accuracy is about 35%
+
+### cifar10_one_layer.ipynb
+Demonstrate svm and softmax classifier with tensorflow, the test accuracy is about 35%
