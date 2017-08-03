@@ -20,3 +20,6 @@ Demostrate a base model, the test accuracy is about 35%
 
 ### cifar10_one_layer.ipynb
 Demonstrate svm and softmax classifier with tensorflow, the test accuracy is about 35%
+
+### cifar10_two_layer.ipynb
+Demonstrate two-layer full connnected net with tensorflow, the test accuracy is about 50%
