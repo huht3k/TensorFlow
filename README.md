@@ -23,3 +23,9 @@ Demonstrate svm and softmax classifier with tensorflow, the test accuracy is abo
 
 ### cifar10_two_layer.ipynb
 Demonstrate two-layer full connnected net with tensorflow, the test accuracy is about 50%
+
+### cifar10_fully_connected_net.ipynb
+Fully connected deep net for any number of layers, for any dropout, for any batch norm, for any L2 regularization
+Demonstrate about 55% test accuracy of four-layer net on cifar10 dataset;
+Demonstrate about 52% and 53% test accuracy of eight-layer net on cifar10 dataset.
+
