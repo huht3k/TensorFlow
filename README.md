@@ -29,3 +29,6 @@ Fully connected deep net for any number of layers, for any dropout, for any batc
 Demonstrate about 55% test accuracy of four-layer net on cifar10 dataset;
 Demonstrate about 52% and 53% test accuracy of eight-layer net on cifar10 dataset.
 
+### cifar10_100_by_bug.ipynb
+bug from tf.nn.in_top_k(logits, labels, 1) 
+The bug makes the test accuracy is 100%
