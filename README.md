@@ -32,3 +32,6 @@ Demonstrate about 52% and 53% test accuracy of eight-layer net on cifar10 datase
 ### cifar10_100_by_bug.ipynb
 bug from tf.nn.in_top_k(logits, labels, 1) 
 The bug makes the test accuracy is 100%
+
+### cifar10_65.ipynb
+Demonstrate about 65% test accuarcy for a net like "conv - RELU - POOL - FC - RELU - SOFTMAX" on cifar10 dataset
