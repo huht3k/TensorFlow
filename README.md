@@ -35,3 +35,6 @@ The bug makes the test accuracy is 100%
 
 ### cifar10_65.ipynb
 Demonstrate about 65% test accuarcy for a net like "conv - RELU - POOL - FC - RELU - SOFTMAX" on cifar10 dataset
+
+### cifar10_80.ipynb
+Demonstrate about 80% test accuarcy for a net like "conv-RELU-POOL - conv－RELU-POOL -conv-RELU-conv-RELU-POOL -FC-RELU-FC-RELU - SOFTMAX" on cifar10 dataset
