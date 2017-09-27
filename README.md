@@ -46,6 +46,7 @@ Demonstrate about 80% test accuarcy for a net like "conv-RELU-POOL - conv－RELU
 
   Demonstrate a unified approach that integrates localization, segmentation, and recognition steps 
   via the use of deep convolutional neural network that operates directly on the image pixels.
+  
   Algorithms demo, refer to the paper:
   Ian, J. G, "multi-digit number recognition from street view imagery using deep convolutional 
   neural networks.
