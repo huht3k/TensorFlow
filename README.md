@@ -38,3 +38,18 @@ Demonstrate about 65% test accuarcy for a net like "conv - RELU - POOL - FC - RE
 
 ### cifar10_80.ipynb
 Demonstrate about 80% test accuarcy for a net like "conv-RELU-POOL - conv－RELU-POOL -conv-RELU-conv-RELU-POOL -FC-RELU-FC-RELU - SOFTMAX" on cifar10 dataset
+
+
+# SVHN
+
+## TensorFlow/SVHN
+
+  Demonstrate a unified approach that integrates localization, segmentation, and recognition steps 
+  via the use of deep convolutional neural network that operates directly on the image pixels.
+  Algorithms demo, refer to the paper:
+  Ian, J. G, "multi-digit number recognition from street view imagery using deep convolutional 
+  neural networks.
+  
+ ### SVHN.ipynb
+Demonstrate about 97% validation accuarcy on SVHN set (not including extra-data)
+ 
