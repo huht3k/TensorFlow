@@ -52,5 +52,5 @@ Demonstrate about 80% test accuarcy for a net like "conv-RELU-POOL - conv－RELU
   neural networks.
   
  ### SVHN.ipynb
-Demonstrate about 97% validation accuarcy on SVHN set (not including extra-data)
+Demonstrate about >80% validation accuarcy on SVHN set (not including extra-data)
  
